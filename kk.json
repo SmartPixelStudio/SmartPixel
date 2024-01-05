@@ -1,0 +1,17 @@
+{
+  "admob": {
+    "Admob_App_Id": "ca-app-pub-1095345055947784~8387117322",
+    "banner": "ca-app-pub-1095345055947784/7989917107",
+    "rewarded": "ca-app-pub-1095345055947784/6547422047",
+    "interstitial": "ca-app-pub-1095345055947784/4112830396"
+  },
+  "facebook": {
+    "banner": "2758385224488718_2758385934488647",
+    "interstitial": "2758385224488718_2758388017821772"
+  },
+  "unityads": {
+    "Unity_Id": "5480682",
+    "rewarded": "r",
+    "interstitial": "i"
+  }
+}
